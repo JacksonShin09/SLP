@@ -1,0 +1,83 @@
+
+  
+
+#title{
+    border:10px rgb(9, 44, 77) solid;
+    background-color: rgb(31, 63, 110);
+    color:rgb(149, 233, 149);
+    text-align: center;
+    margin:10px;
+}
+
+#history{
+    margin-left:10px;
+    border: 10px rgb(9, 44, 77) solid;
+    position:static;
+    padding-left:10px;
+    padding-right: 10px;
+    background-color: rgb(31, 63, 110) ;
+    color:rgb(149, 233, 149);
+}
+
+.header{
+    font-size:20px;
+    color:rgb(149, 233, 149);
+    
+}
+#Ingredients{
+    
+    margin-left:10px;
+    border: 10px rgb(9, 44, 77) solid;
+    position:static;
+    height: 300px;
+    width:500px;
+    padding-left:10px;
+    padding-right: 10px;
+    background-color: rgb(31, 63, 110) ;
+    color:rgb(149, 233, 149);
+    margin-top: 10px;
+}
+
+#instructions{
+    margin-left:10px;
+    border: 10px rgb(9, 44, 77) solid;
+    position:static;
+    padding-left:10px;
+    padding-right: 10px;
+    background-color: rgb(31, 63, 110) ;
+    color:rgb(149, 233, 149);
+    margin-top: 10px;
+}
+
+
+
+nav {
+    background-color: rgb(31, 63, 110);
+    border:10px rgb(9, 44, 77) solid;
+    overflow: hidden;
+}
+      
+.navbar {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+}
+      
+.navbar li {
+    padding: 14px 20px;
+}
+      
+.navbar a {
+    color: rgb(149, 233, 149);
+    text-decoration: none;
+    font-size: 18px;
+    display: block;
+    text-align: center;
+}
+
+a{
+    color: rgb(149, 233, 149);
+    
+}
